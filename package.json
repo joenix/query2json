@@ -1,0 +1,7 @@
+{
+  "name": "query2json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joenix <joenix@qq.com>",
+  "license": "MIT"
+}
